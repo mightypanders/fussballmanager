@@ -48,10 +48,5 @@ namespace manager.Entities
             _trainer = trainer;
             _morale = morale;
         }
-
     }
-
-
-
-
 }
