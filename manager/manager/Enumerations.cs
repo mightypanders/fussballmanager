@@ -28,5 +28,16 @@ namespace manager
             Indifferent,
             Corrupt
         }
+        public enum Morale
+        {
+            Friendly = 1,
+            Neutral,
+            Agitated,
+            Split,
+            Individualistic,
+            Bad,
+            Demotivated,
+            Firedup
+        }
     }
 }

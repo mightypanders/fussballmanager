@@ -36,7 +36,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities.cs" />
+    <Compile Include="Constants\Properties.cs" />
+    <Compile Include="Entities\Individuals.cs" />
+    <Compile Include="Entities\Game.cs" />
     <Compile Include="Enumerations.cs" />
   </ItemGroup>
   <ItemGroup>
